@@ -1,0 +1,104 @@
+ln.hako.re##DIV[class="index-background"]
+ln.hako.re##DIV[class="no-push col-12 push-2-l col-8-l"]
+ln.hako.re##DIV[id="announcements"][class="index-top_notification"]
+ln.hako.re##FOOTER[id="footer"]
+ln.hako.re##section[class="last-topics index-section"]
+ln.hako.re##section[id="recent-comments"][class="index-section"]
+
+myanimelist.net##A[class="btn-mal-service"][href="https://myanimelist.net/membership?_location=mal_h_u"]
+myanimelist.net##DIV[class="footer-app ac"]
+myanimelist.net##DIV[class="widget mxj left"]
+myanimelist.net##DIV[id="footer-block"]
+myanimelist.net##IMG[src="/c/i/images/event/GH_20220320C_PDA/PDA_PC_top_C.png"]
+myanimelist.net##span[class="text  score-label score-na"]
+myanimelist.net##I[class="icon-score-star fa-solid fa-star mr4 "]
+myanimelist.net##A[class="Lightbox_AddEdit btn-addEdit-large btn-anime-watch-status js-anime-watch-status notinmylist"]
+myanimelist.net##A[class="Lightbox_AddEdit btn-addEdit-large btn-anime-watch-status js-anime-watch-status completed"]
+
+www.desmos.com##svg[id="svg-desmos"][class="dcg-desmos-svg-logo"]
+
+! facebook.com
+www.facebook.com##A[aria-label="Tạo tin"]
+www.facebook.com##A[class="oajrlxb2 g5ia77u1 qu0x051f esr5mh6w e9989ue4 r7d6kgcz rq0escxv nhd2j8a9 p7hjln8o kvgmc6g5 cxmmr5t8 oygrvhab hcukyx3x jb3vyjys rz4wbd8a qt6c0cv9 a8nywdso i1ao9s8h esuyzwwr f1sip0of n00je7tq arfg74bv qs9ysxi8 k77z8yql abiwlrkh p8dawk7l lzcic4wl bp9cbjyn j83agx80 cbu4d94t datstx6m taijpn5t l9j0dhe7 k4urcfbm"][href="/gaming/?ref=games_tab"]
+www.facebook.com##A[class="oajrlxb2 g5ia77u1 qu0x051f esr5mh6w e9989ue4 r7d6kgcz rq0escxv nhd2j8a9 p7hjln8o kvgmc6g5 cxmmr5t8 oygrvhab hcukyx3x jb3vyjys rz4wbd8a qt6c0cv9 a8nywdso i1ao9s8h esuyzwwr f1sip0of n00je7tq arfg74bv qs9ysxi8 k77z8yql abiwlrkh p8dawk7l lzcic4wl bp9cbjyn j83agx80 cbu4d94t datstx6m taijpn5t l9j0dhe7 k4urcfbm"][href="/watch/?ref=tab"]
+www.facebook.com##DIV[aria-label="Phòng họp mặt mới"]
+www.facebook.com##DIV[aria-label="Tạo phòng họp mặt mới"]
+www.facebook.com##DIV[class="rq0escxv l9j0dhe7 du4w35lb obtkqiv7 sv5sfqaa sj5x9vvc cxgpxx05"]
+www.facebook.com##DIV[class="sjgh65i0"]
+www.facebook.com##DIV[class="rq0escxv l9j0dhe7 du4w35lb j83agx80 cbu4d94t buofh1pr tgvbjcpo sv5sfqaa obtkqiv7"]
+
+! messenger.com
+www.messenger.com##span.x1qrby5j.x7ja8zs.x1t2pt76.x1lytzrv.xedcshv.xarpa2k.x3igimt.x12ejxvf.xaigb6o.x1beo9mf.xv2umb2.x1jfb8zj.x1h9r5lt.x1h91t0o.x4k7w5x:nth-of-type(3)
+www.messenger.com##.xurb0ha.xwib8y2.x1sxyh0.x1y1aw1k.x1emribx.x1i64zmx.x1a2a7pz.x1lku1pv.x87ps6o.x1q0g3np.x3nfvp2.x13rtm0m.x1e5q0jg.x3x9cwd.x1o1ewxj.x1t137rt.x1ja2u2z.xggy1nq.x1hl2dhg.x16tdsg8.x1n2onr6.xeuugli.x2lwn1j.xat24cr.xdj266r.xe8uvvx.x2lah0s.xdl72j9.x1ypdohk.x9f619.xm0m39n.x1qhh985.xcfux6l.x972fbf.x26u7qi.x1q0q8m5.xu3j5b3.x13fuv20.x2hbi6w.xqeqjp1.xa49m3k.xjqpnuy.xjbqb8w.x1qjc9v5.x1i10hfl
+
+! youtube.com
+www.youtube.com##A[class="yt-simple-endpoint style-scope ytd-guide-entry-renderer"][title="Khám phá"]
+www.youtube.com##A[class="yt-simple-endpoint style-scope ytd-guide-entry-renderer"][title="Shorts"]
+www.youtube.com##A[class="yt-simple-endpoint style-scope ytd-guide-entry-renderer"][title="Video của bạn"]
+www.youtube.com##DIV[id="button"][class="style-scope ytd-topbar-menu-button-renderer"]
+www.youtube.com##DIV[id="voice-search-button"][class="style-scope ytd-masthead"]
+www.youtube.com##yt-formatted-string[id="guide-section-title"][class="style-scope ytd-guide-section-renderer"]
+www.youtube.com##ytd-toggle-button-renderer[class="style-scope ytd-menu-renderer force-icon-button style-text"]
+www.youtube.com##YT-FORMATTED-STRING[id="text"][class="style-scope ytd-button-renderer style-default size-default"]
+www.youtube.com##YT-FORMATTED-STRING[id="text"][class="style-scope ytd-toggle-button-renderer style-text"]
+www.youtube.com##button[class="style-scope yt-icon-button"][aria-label="Tạo đoạn video"]
+www.youtube.com##button[title="Chế độ rạp chiếu phim (t)"]
+www.youtube.com##A[class="ytp-next-button ytp-button"]
+www.youtube.com##button[title="Chế độ tự động phát đang tắt"]
+www.youtube.com##button[aria-label="Không có phụ đề"]
+
+! www.nettruyen.com
+www.nettruyenff.com##.Module-280.Module
+www.nettruyenff.com##[href="https://www.facebook.com/groups/860444028385945"]
+www.nettruyenff.com##A[class="mark-as-read"]
+www.nettruyenff.com##FOOTER[class="footer"]
+www.nettruyenff.com##DIV[class="notify_block"]
+www.nettruyenff.com##DIV[class="comic-wrap Module Module-168"]
+www.nettruyenff.com##A[href="http://www.nettruyenff.com/hot"]
+www.nettruyenff.com##A[href="http://www.nettruyenff.com/tai-app"]
+www.nettruyenff.com##A[href="http://www.nettruyenff.com/truyen-con-gai"]
+www.nettruyenff.com##A[href="http://www.nettruyenff.com/truyen-con-trai"]
+www.nettruyenff.com##A[href="https://www.facebook.com/groups/nettruyenonline/"]
+www.nettruyenff.com##UL[class="breadcrumb"]
+www.nettruyenff.com##DIV[class="row rating"]
+www.nettruyenff.com##DIV[class="mrt5 mrb10"]
+www.nettruyenff.com##TIME[class="small"]
+www.nettruyenff.com##DIV[class="comment"]
+www.nettruyenff.com##DIV[class="alert alert-info mrb10 hidden-xs hidden-sm"]
+www.nettruyenff.com##DIV[class="mrb10"]
+www.nettruyenff.com##DIV[class="mrb5"]
+
+! sv.haui.edu.vn
+sv.haui.edu.vn##[href="/sso/elearning"]
+sv.haui.edu.vn##[href="/sso/qpan"]
+sv.haui.edu.vn###sub_testonline
+sv.haui.edu.vn###sub_testonlineqpan
+sv.haui.edu.vn###sub_dakltnonline
+sv.haui.edu.vn##[href="/timestable/calendarct"]
+sv.haui.edu.vn###sub_timestableview
+sv.haui.edu.vn##li.parent:nth-of-type(4)
+sv.haui.edu.vn###sub_shcd
+
+! eop.edu.vn
+eop.edu.vn##li:nth-of-type(1) > .level1
+eop.edu.vn##li:nth-of-type(5) > .level1
+eop.edu.vn###logo > span > [href="/home"]
+
+! spiderum.com
+spiderum.com##.banner
+
+! animevietsub.day
+animevietsub.day##.Footer
+animevietsub.day###mv-keywords
+animevietsub.day##.announcement
+animevietsub.day###watch-block > center
+animevietsub.day##.widget-area
+animevietsub.day##.fbcmt
+animevietsub.day##main > .watch-notice
+animevietsub.day##.social-button
+animevietsub.day##.aanetwork-type-flyicon.aanetwork-ads-box
+animevietsub.day###pc-catfixx
+animevietsub.day##.ad-center-header.Adv
+animevietsub.day##.ad-center-1110.Ads
+animevietsub.day##.ad-center-980.Ads
+
