@@ -53,6 +53,9 @@ photos.google.com##.JJpMec
 gemini.google.com###app-root > main > top-bar-actions
 gemini.google.com###app-root > main > side-navigation-v2 > bard-sidenav-container > bard-sidenav-content > div > div > div.content-container.ng-tns-c1760005002-0 > chat-window > div.chat-container.ng-tns-c2926648123-1.ng-star-inserted > div.bottom-container.ng-tns-c2926648123-1.ng-star-inserted > div.capabilities-disclaimer.ng-tns-c2926648123-1.ng-trigger.ng-trigger-capabilitiesDisclaimerRevelAnimation.ng-star-inserted
 
+! NotebookLM
+notebooklm.google.com##.ng-tns-c31309561-2.disclaimer
+
 ! Drive.google.com
 drive.google.com##.ml-Pr-kg
 
