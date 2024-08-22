@@ -14,7 +14,6 @@ www.facebook.com##div.x9f619.x1n2onr6.x1ja2u2z.x1jx94hy.x1qpq9i9.xdney7k.xu5ydu1
 
 ! Messenger.com
 www.messenger.com##span.x1qrby5j.x7ja8zs.x1t2pt76.x1lytzrv.xedcshv.xarpa2k.x3igimt.x12ejxvf.xaigb6o.x1beo9mf.xv2umb2.x1jfb8zj.x1h9r5lt.x1h91t0o.x4k7w5x:nth-of-type(3)
-www.messenger.com##.xurb0ha.xwib8y2.x1sxyh0.x1y1aw1k.x1emribx.x1i64zmx.x1a2a7pz.x1lku1pv.x87ps6o.x1q0g3np.x3nfvp2.x13rtm0m.x1e5q0jg.x3x9cwd.x1o1ewxj.x1t137rt.x1ja2u2z.xggy1nq.x1hl2dhg.x16tdsg8.x1n2onr6.xeuugli.x2lwn1j.xat24cr.xdj266r.xe8uvvx.x2lah0s.xdl72j9.x1ypdohk.x9f619.xm0m39n.x1qhh985.xcfux6l.x972fbf.x26u7qi.x1q0q8m5.xu3j5b3.x13fuv20.x2hbi6w.xqeqjp1.xa49m3k.xjqpnuy.xjbqb8w.x1qjc9v5.x1i10hfl
 www.messenger.com##.xzd29fr.x1lku1pv.x5ib6vp.x18d9i69.xc73u3c.xexx8yu.xt55aet.x1c4vz4f.xknmibj.x1q0g3np.xozqiw3.x6s0dn4.x1qughib.xeuugli.xs83m0k.x1r8uery.x78zum5.x1ja2u2z.x1n2onr6.x9f619
 
 !!!!!! Youtube.com
@@ -44,14 +43,12 @@ youtube.com##button[title="Chế độ tự động phát đang tắt"]
 youtube.com##button[aria-label="Không có phụ đề"]
 youtube.com###ytp-id-19 > div > div > div:nth-child(4)
 
-
 ! Photos.google.com
 photos.google.com##DIV[jscontroller="HRlsHd"]
 photos.google.com##.JJpMec
 
 ! Gemini.google.com
 gemini.google.com###app-root > main > top-bar-actions
-gemini.google.com###app-root > main > side-navigation-v2 > bard-sidenav-container > bard-sidenav-content > div > div > div.content-container.ng-tns-c1760005002-0 > chat-window > div.chat-container.ng-tns-c2926648123-1.ng-star-inserted > div.bottom-container.ng-tns-c2926648123-1.ng-star-inserted > div.capabilities-disclaimer.ng-tns-c2926648123-1.ng-trigger.ng-trigger-capabilitiesDisclaimerRevelAnimation.ng-star-inserted
 
 ! NotebookLM
 notebooklm.google.com##.ng-tns-c31309561-2.disclaimer
@@ -118,18 +115,36 @@ ln.hako.vn###announcements
 ln.hako.vn###mainpart > div.container:first-child > div.row:last-child > div.col-12.col-lg-3:last-child
 ln.hako.vn###mainpart > div.bottom-part.at-index:nth-child(5) > div.container > div.row > div.col-12.col-md-4.col-lg-3:last-child
 
+! AnimeVietSub
+animevietsub.*##.Footer
+animevietsub.*###mv-keywords
+animevietsub.*##.announcement
+animevietsub.*###watch-block > center
+animevietsub.*##.widget-area
+animevietsub.*##.fbcmt
+animevietsub.*##main > .watch-notice
+animevietsub.*##.social-button
+animevietsub.*##.VotesCn
+animevietsub.*##.aanetwork-type-flyicon.aanetwork-ads-box
+animevietsub.*###pc-catfixx
+animevietsub.*##.ad-center-header.Adv
+animevietsub.*##.ad-center-1110.Ads
+animevietsub.*##.ad-center-980.Ads
+animevietsub.*###links-backup > h3
 
+! goctruyentranhvui
+goctruyentranhvui2.com##body > footer
 
-animevietsub.fan##.Footer
-animevietsub.fan##.VotesCn
-animevietsub.fan##.announcement
-animevietsub.fan###pc-catfixx
-animevietsub.fan###watch-block > center:last-child
-animevietsub.fan##.box-content, .alerts
-animevietsub.fan##.social-button
-animevietsub.fan##.Dvr-300
-animevietsub.fan###Tp-Wp > div.Body.Container:nth-child(2) > div.Content > div.TpRwCont:last-child > aside.widget-area:last-child > section.Wdgt:first-child
-animevietsub.fan###Tp-Wp > div.Body.Container:nth-child(2) > div.Content > div.TpRwCont:last-child > aside.widget-area:last-child > div.tag-list-main:last-child
+! CuuTruyen.com
+nettrom.com##footer
+nettrom.com###banner
+nettrom.com##a[href="https://partner.coccoc.com/cuutruyen"]
+nettrom.com##a[href="https://m.me/CuuTruyenTranh"]
+nettrom.com##.lg\:flex.hidden.gap-3.items-center.flex-1
+nettrom.com###good-pages > div.relative > div.absolute.top-0.w-\[10\%\].h-full.z-30.whitespace-nowrap.select-none.from-gray-800.right-0.bg-gradient-to-l.opacity-100.lg\:hover\:opacity-100.animate-pulse.from-gray-800
+nettrom.com###good-pages > div.relative > div.absolute.top-0.w-\[10\%\].h-full.z-30.whitespace-nowrap.select-none.from-gray-800.left-0.bg-gradient-to-r.opacity-100.lg\:hover\:opacity-100.animate-pulse.from-blue-800
+nettrom.com##.mx-auto.text-center.max-w-md.overflow-auto.md\:h-36.h-40.mt-12.text-sm.text-gray-500 > .mb-2
+nettrom.com##.select-none.overflow-y-auto.justify-between.flex-col.flex.px-2.mx-auto.max-w-screen-md.h-\[calc\(100vh-2\.5rem-60px\)\].w-full > .pb-12.items-center.flex-col.flex.text-sm.text-gray-600
 
 
 ! Nettruyen.com
@@ -158,35 +173,6 @@ animevietsub.fan###Tp-Wp > div.Body.Container:nth-child(2) > div.Content > div.T
 /nettruyen[a-z]{2,3}\.com/###nt_comments
 /nettruyen[a-z]{2,3}\.com/###fb_comments
 
-! CuuTruyen.com
-nettrom.com##footer
-nettrom.com###banner
-nettrom.com##a[href="https://partner.coccoc.com/cuutruyen"]
-nettrom.com##a[href="https://m.me/CuuTruyenTranh"]
-nettrom.com##.lg\:flex.hidden.gap-3.items-center.flex-1
-nettrom.com###good-pages > div.relative > div.absolute.top-0.w-\[10\%\].h-full.z-30.whitespace-nowrap.select-none.from-gray-800.right-0.bg-gradient-to-l.opacity-100.lg\:hover\:opacity-100.animate-pulse.from-gray-800
-nettrom.com###good-pages > div.relative > div.absolute.top-0.w-\[10\%\].h-full.z-30.whitespace-nowrap.select-none.from-gray-800.left-0.bg-gradient-to-r.opacity-100.lg\:hover\:opacity-100.animate-pulse.from-blue-800
-nettrom.com##.mx-auto.text-center.max-w-md.overflow-auto.md\:h-36.h-40.mt-12.text-sm.text-gray-500 > .mb-2
-nettrom.com##.select-none.overflow-y-auto.justify-between.flex-col.flex.px-2.mx-auto.max-w-screen-md.h-\[calc\(100vh-2\.5rem-60px\)\].w-full > .pb-12.items-center.flex-col.flex.text-sm.text-gray-600
-
-! AnimeVietSub
-animevietsub.*##.Footer
-animevietsub.*###mv-keywords
-animevietsub.*##.announcement
-animevietsub.*###watch-block > center
-animevietsub.*##.widget-area
-animevietsub.*##.fbcmt
-animevietsub.*##main > .watch-notice
-animevietsub.*##.social-button
-animevietsub.*##.VotesCn
-animevietsub.*##.aanetwork-type-flyicon.aanetwork-ads-box
-animevietsub.*###pc-catfixx
-animevietsub.*##.ad-center-header.Adv
-animevietsub.*##.ad-center-1110.Ads
-animevietsub.*##.ad-center-980.Ads
-animevietsub.*###links-backup > h3
-
-
 ! TruyenQQ
 !/truyenqq[a-z]{2,4}\.com/##body > div.aanetwork-ads-box.aanetwork-type-pto
 /truyenqq[a-z]{2,4}\.com/##span[class="type-label hot"]
@@ -212,14 +198,4 @@ animevietsub.*###links-backup > h3
 ! Doc truyen, xem ani tai...
 /truyenqq[a-z]{2,4}\.com/###chapter_content > div > div.chapter_content > p:nth-child(3)
 /truyenqq[a-z]{2,4}\.com/###chapter_content > div > div.chapter_content > p:nth-child(4)
-
-
-! https://www.messenger.com
-www.messenger.com##.x78zum5.x1mh8g0r.xat24cr.x11i5rnm.xdj266r.x9jhf4c.x30kzoy.xgqcy7u.x1lq5wgf.x187nhsf.x1120s5i.x1nn3v0j.x10wlt62.x6ikm8r.xn3w4p2.x1q0g3np.x6s0dn4.x1a2a7pz.x1lku1pv.x87ps6o.x1t137rt.x1ja2u2z.xggy1nq.x1hl2dhg.x16tdsg8.x1n2onr6.xkhd6sd.x4uap5.xeuugli.x2lwn1j.xe8uvvx.x2lah0s.xdl72j9.x1ypdohk.x9f619.xm0m39n.x1qhh985.xcfux6l.x972fbf.x26u7qi.x1q0q8m5.xu3j5b3.x13fuv20.x2hbi6w.xqeqjp1.xa49m3k.xjqpnuy.xjbqb8w.x1i10hfl > .xs83m0k.x1iyjqo2.x1sxyh0.xurb0ha.x1o6z2jb.x1i1ezom.x1otrzb0.xhk9q7s.x1ja2u2z.x1n2onr6.xeuugli.x2lwn1j.xdt5ytf.xdl72j9.x78zum5.x9f619.x1qjc9v5
-
-gemini.google.com###app-root > main > top-bar-actions
-gemini.google.com###app-root > main > side-navigation-v2 > bard-sidenav-container > bard-sidenav-content > div > div > div.content-container.ng-tns-c1760005002-0 > chat-window > div.chat-container.ng-tns-c2926648123-1.ng-star-inserted > div.bottom-container.ng-tns-c2926648123-1.ng-star-inserted > div.capabilities-disclaimer.ng-tns-c2926648123-1.ng-trigger.ng-trigger-capabilitiesDisclaimerRevelAnimation.ng-star-inserted
-
-! goctruyentranhvui
-goctruyentranhvui2.com##body > footer
 
