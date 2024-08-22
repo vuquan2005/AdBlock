@@ -141,10 +141,7 @@ nettrom.com###banner
 nettrom.com##a[href="https://partner.coccoc.com/cuutruyen"]
 nettrom.com##a[href="https://m.me/CuuTruyenTranh"]
 nettrom.com##.lg\:flex.hidden.gap-3.items-center.flex-1
-nettrom.com###good-pages > div.relative > div.absolute.top-0.w-\[10\%\].h-full.z-30.whitespace-nowrap.select-none.from-gray-800.right-0.bg-gradient-to-l.opacity-100.lg\:hover\:opacity-100.animate-pulse.from-gray-800
-nettrom.com###good-pages > div.relative > div.absolute.top-0.w-\[10\%\].h-full.z-30.whitespace-nowrap.select-none.from-gray-800.left-0.bg-gradient-to-r.opacity-100.lg\:hover\:opacity-100.animate-pulse.from-blue-800
-nettrom.com##.mx-auto.text-center.max-w-md.overflow-auto.md\:h-36.h-40.mt-12.text-sm.text-gray-500 > .mb-2
-nettrom.com##.select-none.overflow-y-auto.justify-between.flex-col.flex.px-2.mx-auto.max-w-screen-md.h-\[calc\(100vh-2\.5rem-60px\)\].w-full > .pb-12.items-center.flex-col.flex.text-sm.text-gray-600
+
 
 
 ! Nettruyen.com
