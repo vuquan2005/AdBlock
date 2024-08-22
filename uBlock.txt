@@ -196,3 +196,6 @@ nettrom.com##.lg\:flex.hidden.gap-3.items-center.flex-1
 /truyenqq[a-z]{2,4}\.com/###chapter_content > div > div.chapter_content > p:nth-child(3)
 /truyenqq[a-z]{2,4}\.com/###chapter_content > div > div.chapter_content > p:nth-child(4)
 
+!act.hoyolab.com
+act.hoyolab.com##.bbs-qr__vi-vn.bbs-qr
+
