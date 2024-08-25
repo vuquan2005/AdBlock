@@ -1,3 +1,15 @@
+animevietsub.app##.Footer
+animevietsub.app##.VotesCn
+animevietsub.app##.announcement
+animevietsub.app###pc-catfixx
+animevietsub.app###watch-block > center:last-child
+animevietsub.app##.box-content, .alerts
+animevietsub.app##.social-button
+animevietsub.app##.Dvr-300
+animevietsub.app###Tp-Wp > div.Body.Container:nth-child(2) > div.Content > div.TpRwCont:last-child > aside.widget-area:last-child > section.Wdgt:first-child
+animevietsub.app###Tp-Wp > div.Body.Container:nth-child(2) > div.Content > div.TpRwCont:last-child > aside.widget-area:last-child > div.tag-list-main:last-child
+
+
 ! Facebook
 www.facebook.com##A[aria-label="Tạo tin"]
 www.facebook.com##div[aria-label="Tạo bài viết"]
