@@ -38,7 +38,7 @@ youtube.com##a[href="/paid_memberships?ybp=mAEK"]
 ! Kênh đăng kí,...
 youtube.com##h3.style-scope.ytd-guide-section-renderer > yt-formatted-string#guide-section-title
 ! Tạo video
-youtube.com##ytd-topbar-menu-button-renderer[class="style-scope ytd-masthead style-default"]
+!youtube.com##ytd-topbar-menu-button-renderer[class="style-scope ytd-masthead style-default"]
 youtube.com##div[id="voice-search-button"]
 ! Tham gia kênh
 youtube.com##div[id="sponsor-button"]
@@ -145,7 +145,7 @@ animevietsub.*##.ad-center-980.Ads
 animevietsub.*###links-backup > h3
 
 ! goctruyentranhvui
-goctruyentranhvui2.com##body > footer
+goctruyentranhvui3.com##body > footer
 
 ! CuuTruyen.com
 nettrom.com##footer
