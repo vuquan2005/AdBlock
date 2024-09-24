@@ -1,13 +1,13 @@
-animevietsub.uk##.Footer
-animevietsub.uk##.VotesCn
-animevietsub.uk##.announcement
-animevietsub.uk###pc-catfixx
-animevietsub.uk###watch-block > center:last-child
-animevietsub.uk##.box-content, .alerts
-animevietsub.uk##.social-button
-animevietsub.uk##.Dvr-300
-animevietsub.uk###Tp-Wp > div.Body.Container:nth-child(2) > div.Content > div.TpRwCont:last-child > aside.widget-area:last-child > section.Wdgt:first-child
-animevietsub.uk###Tp-Wp > div.Body.Container:nth-child(2) > div.Content > div.TpRwCont:last-child > aside.widget-area:last-child > div.tag-list-main:last-child
+animevietsub.pub##.Footer
+animevietsub.pub##.VotesCn
+animevietsub.pub##.announcement
+animevietsub.pub###pc-catfixx
+animevietsub.pub###watch-block > center:last-child
+animevietsub.pub##.box-content, .alerts
+animevietsub.pub##.social-button
+animevietsub.pub##.Dvr-300
+animevietsub.pub###Tp-Wp > div.Body.Container:nth-child(2) > div.Content > div.TpRwCont:last-child > aside.widget-area:last-child > section.Wdgt:first-child
+animevietsub.pub###Tp-Wp > div.Body.Container:nth-child(2) > div.Content > div.TpRwCont:last-child > aside.widget-area:last-child > div.tag-list-main:last-child
 
 
 ! Facebook
