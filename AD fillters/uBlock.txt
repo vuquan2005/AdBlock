@@ -1,16 +1,3 @@
-!AnimeVietSubAndroid
-animevietsub.tube##.Footer
-animevietsub.tube##.VotesCn
-animevietsub.tube##.announcement
-animevietsub.tube###pc-catfixx
-animevietsub.tube###watch-block > center:last-child
-animevietsub.tube##.box-content, .alerts
-animevietsub.tube##.social-button
-animevietsub.tube##.Dvr-300
-animevietsub.tube###Tp-Wp > div.Body.Container:nth-child(2) > div.Content > div.TpRwCont:last-child > aside.widget-area:last-child > section.Wdgt:first-child
-animevietsub.tube###Tp-Wp > div.Body.Container:nth-child(2) > div.Content > div.TpRwCont:last-child > aside.widget-area:last-child > div.tag-list-main:last-child
-
-
 ! Facebook
 www.facebook.com##A[aria-label="Tạo tin"]
 www.facebook.com##div[aria-label="Tạo bài viết"]
