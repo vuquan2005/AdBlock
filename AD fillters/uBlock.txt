@@ -98,9 +98,9 @@ sv.haui.edu.vn###sub_shcd
 eop.edu.vn##.footer
 eop.edu.vn###logo
 eop.edu.vn##a[href="/apps/game"]
-eop.edu.vn###menu > #navigation > #side-menu > li:nth-of-type(1)
-eop.edu.vn###menu > #navigation > #side-menu > li:nth-of-type(3)
-eop.edu.vn###menu > #navigation > #side-menu > li:nth-of-type(5)
+!eop.edu.vn###menu > #navigation > #side-menu > li:nth-of-type(1)
+!eop.edu.vn###menu > #navigation > #side-menu > li:nth-of-type(3)
+!eop.edu.vn###menu > #navigation > #side-menu > li:nth-of-type(5)
 
 
 ! MyAnimeList
