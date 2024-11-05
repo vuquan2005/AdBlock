@@ -108,9 +108,11 @@ animevietsub.*###links-backup > h3
 /truyenqq[a-z]{2,4}\.com/###chapter_content > div > div.chapter_content > p:nth-child(4)
 
 
-!********** C1Manga
+!********** CManga
 !** Home
-! cmanga1.com###content > div.right
+! Nhóm dịch
+!||cmanga1.com/assets/img/pr/tuyennhomdich.jpg$image
+! cmanga.com###content > div.right
 cmanga1.com##div[onclick="popup_load('user/premium')"]
 cmanga1.com##div.module.game_top
 cmanga1.com##footer
