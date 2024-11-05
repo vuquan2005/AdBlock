@@ -1,47 +1,47 @@
 !********** Facebook
-    www.facebook.com##A[aria-label="Tạo tin"]
-    www.facebook.com##div[aria-label="Tạo bài viết"]
-    www.facebook.com##DIV[aria-label="Phòng họp mặt mới"]
-    www.facebook.com##DIV[aria-label="Tạo phòng họp mặt mới"]
-    www.facebook.com##A[aria-label="Marketplace"]
-    www.facebook.com##A[aria-label="Trò chơi"]
-    www.facebook.com##A[aria-label="Video"]
-    ! Những người bạn có thể biết
-    www.facebook.com##div.x9f619.x1n2onr6.x1ja2u2z.x1jx94hy.x1qpq9i9.xdney7k.xu5ydu1.xt3gfkd.xh8yej3.x6ikm8r.x10wlt62.xquyuld > div.x6ikrn8r.x10wlt62
-    !www.facebook.com##DIV[class="rq0escxv l9j0dhe7 du4w35lb obtkqiv7 sv5sfqaa sj5x9vvc cxgpxx05"]
-    !www.facebook.com##DIV[class="sjgh65i0"]
-    !www.facebook.com##DIV[class="rq0escxv l9j0dhe7 du4w35lb j83agx80 cbu4d94t buofh1pr tgvbjcpo sv5sfqaa obtkqiv7"]
+www.facebook.com##A[aria-label="Tạo tin"]
+www.facebook.com##div[aria-label="Tạo bài viết"]
+www.facebook.com##DIV[aria-label="Phòng họp mặt mới"]
+www.facebook.com##DIV[aria-label="Tạo phòng họp mặt mới"]
+www.facebook.com##A[aria-label="Marketplace"]
+www.facebook.com##A[aria-label="Trò chơi"]
+www.facebook.com##A[aria-label="Video"]
+! Những người bạn có thể biết
+www.facebook.com##div.x9f619.x1n2onr6.x1ja2u2z.x1jx94hy.x1qpq9i9.xdney7k.xu5ydu1.xt3gfkd.xh8yej3.x6ikm8r.x10wlt62.xquyuld > div.x6ikrn8r.x10wlt62
+!www.facebook.com##DIV[class="rq0escxv l9j0dhe7 du4w35lb obtkqiv7 sv5sfqaa sj5x9vvc cxgpxx05"]
+!www.facebook.com##DIV[class="sjgh65i0"]
+!www.facebook.com##DIV[class="rq0escxv l9j0dhe7 du4w35lb j83agx80 cbu4d94t buofh1pr tgvbjcpo sv5sfqaa obtkqiv7"]
 
 !********** Messenger.com
 www.messenger.com##span.x1qrby5j.x7ja8zs.x1t2pt76.x1lytzrv.xedcshv.xarpa2k.x3igimt.x12ejxvf.xaigb6o.x1beo9mf.xv2umb2.x1jfb8zj.x1h9r5lt.x1h91t0o.x4k7w5x:nth-of-type(3)
 www.messenger.com##.xzd29fr.x1lku1pv.x5ib6vp.x18d9i69.xc73u3c.xexx8yu.xt55aet.x1c4vz4f.xknmibj.x1q0g3np.xozqiw3.x6s0dn4.x1qughib.xeuugli.xs83m0k.x1r8uery.x78zum5.x1ja2u2z.x1n2onr6.x9f619
 
 !********** Youtube.com
-    ! Short, Tin tức
-    !youtube.com##div#dismissible.style-scope.ytd-rich-shelf-renderer
-    youtube.com##A[class="yt-simple-endpoint style-scope ytd-guide-entry-renderer"][title="Khám phá"]
-    youtube.com##A[class="yt-simple-endpoint style-scope ytd-guide-entry-renderer"][title="Shorts"]
-    youtube.com##A[class="yt-simple-endpoint style-scope ytd-guide-entry-renderer"][title="Video của bạn"]
-    youtube.com##a[href="/paid_memberships?ybp=mAEK"]
-    ! Kênh đăng kí,...
-    youtube.com##h3.style-scope.ytd-guide-section-renderer > yt-formatted-string#guide-section-title
-    ! Tạo video
-    !youtube.com##ytd-topbar-menu-button-renderer[class="style-scope ytd-masthead style-default"]
-    youtube.com##div[id="voice-search-button"]
-    ! Tham gia kênh
-    youtube.com##div[id="sponsor-button"]
-    ! Menu ... bên cạnh download
-    youtube.com##button[aria-label="Tải xuống"]
-    youtube.com##button[aria-label="Cảm ơn"]
-    youtube.com##button[aria-label="Tạo đoạn video"]
-    youtube.com##button[aria-label="Thao tác khác"]
-    ! Đăng ký góc dưới video
-    youtube.com##div[class="annotation annotation-type-custom iv-branding"]
-    ! Menu video
-    youtube.com##button[title="Chế độ rạp chiếu phim (t)"]
-    youtube.com##button[title="Chế độ tự động phát đang tắt"]
-    youtube.com##button[aria-label="Không có phụ đề"]
-    youtube.com###ytp-id-19 > div > div > div:nth-child(4)
+! Short, Tin tức
+!youtube.com##div#dismissible.style-scope.ytd-rich-shelf-renderer
+youtube.com##A[class="yt-simple-endpoint style-scope ytd-guide-entry-renderer"][title="Khám phá"]
+youtube.com##A[class="yt-simple-endpoint style-scope ytd-guide-entry-renderer"][title="Shorts"]
+youtube.com##A[class="yt-simple-endpoint style-scope ytd-guide-entry-renderer"][title="Video của bạn"]
+youtube.com##a[href="/paid_memberships?ybp=mAEK"]
+! Kênh đăng kí,...
+youtube.com##h3.style-scope.ytd-guide-section-renderer > yt-formatted-string#guide-section-title
+! Tạo video
+!youtube.com##ytd-topbar-menu-button-renderer[class="style-scope ytd-masthead style-default"]
+youtube.com##div[id="voice-search-button"]
+! Tham gia kênh
+youtube.com##div[id="sponsor-button"]
+! Menu ... bên cạnh download
+youtube.com##button[aria-label="Tải xuống"]
+youtube.com##button[aria-label="Cảm ơn"]
+youtube.com##button[aria-label="Tạo đoạn video"]
+youtube.com##button[aria-label="Thao tác khác"]
+! Đăng ký góc dưới video
+youtube.com##div[class="annotation annotation-type-custom iv-branding"]
+! Menu video
+youtube.com##button[title="Chế độ rạp chiếu phim (t)"]
+youtube.com##button[title="Chế độ tự động phát đang tắt"]
+youtube.com##button[aria-label="Không có phụ đề"]
+youtube.com###ytp-id-19 > div > div > div:nth-child(4)
 
 !********** Photos.google.com
 photos.google.com##DIV[jscontroller="HRlsHd"]
@@ -170,59 +170,60 @@ nettrom.com##.lg\:flex.hidden.gap-3.items-center.flex-1
 /nettruyen[a-z]{2,3}\.com/###fb_comments
 
 !********** TruyenQQ
-    !/truyenqq[a-z]{2,4}\.com/##body > div.aanetwork-ads-box.aanetwork-type-pto
-    /truyenqq[a-z]{2,4}\.com/##span[class="type-label hot"]
-    /truyenqq[a-z]{2,4}\.com/##span[class="type-label new"]
-    /truyenqq[a-z]{2,4}\.com/##footer
-    /truyenqq[a-z]{2,4}\.com/###comment_list
-    ! Tab girl, boy, facebook, discord,..
-    /truyenqq[a-z]{2,4}\.com/###header_left_menu > li:nth-child(4) > a
-    /truyenqq[a-z]{2,4}\.com/###header_left_menu > li:nth-child(5) > a
-    /truyenqq[a-z]{2,4}\.com/###header_left_menu > li:nth-child(9) > a
-    /truyenqq[a-z]{2,4}\.com/###header_left_menu > li:nth-child(10) > a
-    /truyenqq[a-z]{2,4}\.com/###header_left_menu > li:nth-child(11) > a
-    /truyenqq[a-z]{2,4}\.com/###header_left_menu > li:nth-child(12) > a
-    ! Like truyện
-    /truyenqq[a-z]{2,4}\.com/##a[class="button is-danger is-rounded btn-like"]
-    ! Chuyển chap
-    !/truyenqq[a-z]{2,4}\.com/##div[class="box"] !all
-    /truyenqq[a-z]{2,4}\.com/##.mrt10
-    !/truyenqq[a-z]{2,4}\.com/##ol[class="breadcrumb"]
-    ! AD
-    /truyenqq[a-z]{2,4}\.com/###ad_info
-    /truyenqq[a-z]{2,4}\.com/###ad_info_top
-    ! Doc truyen, xem ani tai...
-    /truyenqq[a-z]{2,4}\.com/###chapter_content > div > div.chapter_content > p:nth-child(3)
-    /truyenqq[a-z]{2,4}\.com/###chapter_content > div > div.chapter_content > p:nth-child(4)
+!/truyenqq[a-z]{2,4}\.com/##body > div.aanetwork-ads-box.aanetwork-type-pto
+/truyenqq[a-z]{2,4}\.com/##span[class="type-label hot"]
+/truyenqq[a-z]{2,4}\.com/##span[class="type-label new"]
+/truyenqq[a-z]{2,4}\.com/##footer
+/truyenqq[a-z]{2,4}\.com/###comment_list
+! Tab girl, boy, facebook, discord,..
+/truyenqq[a-z]{2,4}\.com/###header_left_menu > li:nth-child(4) > a
+/truyenqq[a-z]{2,4}\.com/###header_left_menu > li:nth-child(5) > a
+/truyenqq[a-z]{2,4}\.com/###header_left_menu > li:nth-child(9) > a
+/truyenqq[a-z]{2,4}\.com/###header_left_menu > li:nth-child(10) > a
+/truyenqq[a-z]{2,4}\.com/###header_left_menu > li:nth-child(11) > a
+/truyenqq[a-z]{2,4}\.com/###header_left_menu > li:nth-child(12) > a
+! Like truyện
+/truyenqq[a-z]{2,4}\.com/##a[class="button is-danger is-rounded btn-like"]
+! Chuyển chap
+!/truyenqq[a-z]{2,4}\.com/##div[class="box"] !all
+/truyenqq[a-z]{2,4}\.com/##.mrt10
+!/truyenqq[a-z]{2,4}\.com/##ol[class="breadcrumb"]
+! AD
+/truyenqq[a-z]{2,4}\.com/###ad_info
+/truyenqq[a-z]{2,4}\.com/###ad_info_top
+! Doc truyen, xem ani tai...
+/truyenqq[a-z]{2,4}\.com/###chapter_content > div > div.chapter_content > p:nth-child(3)
+/truyenqq[a-z]{2,4}\.com/###chapter_content > div > div.chapter_content > p:nth-child(4)
 
 !act.hoyolab.com
 act.hoyolab.com##.bbs-qr__vi-vn.bbs-qr
 
 !********** C1Manga
-    ! Home
-    ! cmanga1.com###content > div.right
-    cmanga1.com##div[onclick="popup_load('user/premium')"]
-    cmanga1.com##footer
-    ! Lấy mã google
-    cmanga1.com###beeGoogleButton
-    ! Coin
-    cmanga1.com##a[onclick="popup_data = {'target':'manga_coin'};popup_load('user/topup')"]
-    ! Chat
-    cmanga1.com###private_chat_module
-    ! Hot tag
-    ||cmanga1.com/assets/img/icon/tags/unique.png$image
-    ||cmanga1.com/assets/img/icon/tags/hot.png$image
-    ! TruyenTranh
-    ! Share
-    cmanga1.com##.ref_link
-    cmanga1.com##button[onclick="fbs_click();"]
-    ! DocTruyenTranh
-    ! ADS
-    ||cmanga1.com/assets/img/pr/ads.png$image
-    ||img.cmanga.online/data-image/index.php$image
-    ! Tên
-    cmanga1.com##.chapter_content_module > .chapter_content > h1
-    ! Report, theo dõi
-    cmanga1.com##a[onclick="popup_load('album/chapter/report')"]
-    cmanga1.com##a[onclick="album_follow()"]
+!** Home
+! cmanga1.com###content > div.right
+cmanga1.com##div[onclick="popup_load('user/premium')"]
+cmanga1.com##div.module.game_top
+cmanga1.com##footer
+! Lấy mã google
+cmanga1.com###beeGoogleButton
+! Coin
+cmanga1.com##a[onclick="popup_data = {'target':'manga_coin'};popup_load('user/topup')"]
+! Chat
+cmanga1.com###private_chat_module
+! Hot tag
+||cmanga1.com/assets/img/icon/tags/unique.png$image
+||cmanga1.com/assets/img/icon/tags/hot.png$image
+!** TruyenTranh
+! Share
+cmanga1.com##.ref_link
+cmanga1.com##button[onclick="fbs_click();"]
+!** DocTruyenTranh
+! ADS
+||cmanga1.com/assets/img/pr/ads.png$image
+||img.cmanga.online/data-image/index.php$image
+! Tên
+cmanga1.com##.chapter_content_module > .chapter_content > h1
+! Report, theo dõi
+cmanga1.com##a[onclick="popup_load('album/chapter/report')"]
+cmanga1.com##a[onclick="album_follow()"]
 
