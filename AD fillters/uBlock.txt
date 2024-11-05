@@ -61,3 +61,15 @@ eop.edu.vn##a[href="/apps/game"]
 !eop.edu.vn###menu > #navigation > #side-menu > li:nth-of-type(3)
 !eop.edu.vn###menu > #navigation > #side-menu > li:nth-of-type(5)
 
+
+!********** open.spotify.com
+open.spotify.com##button[title="Nâng cấp lên Premium"]
+open.spotify.com##a[href="/download"]
+
+
+!********** Desmos
+www.desmos.com##svg[id="svg-desmos"][class="dcg-desmos-svg-logo"]
+
+
+!act.hoyolab.com
+act.hoyolab.com##.bbs-qr__vi-vn.bbs-qr
