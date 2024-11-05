@@ -40,6 +40,9 @@ youtube.com##button[title="Chế độ tự động phát đang tắt"]
 youtube.com##button[aria-label="Không có phụ đề"]
 youtube.com###ytp-id-19 > div > div > div:nth-child(4)
 
+!********** Google
+! Gợi ý tải chrome
+||ogs.google.com/u/0/widget/callout/sid$subdocument
 
 !********** sv.haui.edu.vn
 sv.haui.edu.vn##[href="/sso/elearning"]
