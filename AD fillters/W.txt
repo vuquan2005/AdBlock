@@ -1,5 +1,5 @@
 !********** goctruyentranhvui
-goctruyentranhvui3.com##footer
+/goctruyentranhvui\d\.com/##footer
 
 
 !********** CuuTruyen.com
