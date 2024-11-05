@@ -1,0 +1,139 @@
+!********** goctruyentranhvui
+goctruyentranhvui3.com##body > footer
+
+
+!********** CuuTruyen.com
+nettrom.com##footer
+nettrom.com###banner
+nettrom.com##a[href="https://partner.coccoc.com/cuutruyen"]
+nettrom.com##a[href="https://m.me/CuuTruyenTranh"]
+nettrom.com##.lg\:flex.hidden.gap-3.items-center.flex-1
+
+
+!********** MyAnimeList
+myanimelist.net##A[class="btn-mal-service"][href="https://myanimelist.net/membership?_location=mal_h_u"]
+myanimelist.net##DIV[class="footer-app ac"]
+myanimelist.net##DIV[class="widget mxj left"]
+myanimelist.net##DIV[id="footer-block"]
+myanimelist.net##IMG[src="/c/i/images/event/GH_20220320C_PDA/PDA_PC_top_C.png"]
+myanimelist.net##span[class="text  score-label score-na"]
+myanimelist.net##I[class="icon-score-star fa-solid fa-star mr4 "]
+myanimelist.net##A[class="Lightbox_AddEdit btn-addEdit-large btn-anime-watch-status js-anime-watch-status notinmylist"]
+myanimelist.net##A[class="Lightbox_AddEdit btn-addEdit-large btn-anime-watch-status js-anime-watch-status completed"]
+
+
+!********** Hako.re
+ln.hako.re##DIV[class="index-background"]
+ln.hako.re##DIV[class="no-push col-12 push-2-l col-8-l"]
+ln.hako.re##DIV[id="announcements"][class="index-top_notification"]
+ln.hako.re##FOOTER[id="footer"]
+ln.hako.re##section[class="last-topics index-section"]
+ln.hako.re##section[id="recent-comments"][class="index-section"]
+ln.hako.vn###footer
+ln.hako.vn##lk3au
+ln.hako.vn###announcements
+ln.hako.vn###mainpart > div.container:first-child > div.row:last-child > div.col-12.col-lg-3:last-child
+ln.hako.vn###mainpart > div.bottom-part.at-index:nth-child(5) > div.container > div.row > div.col-12.col-md-4.col-lg-3:last-child
+
+
+!********** AnimeVietSub
+animevietsub.*##.Footer
+animevietsub.*###mv-keywords
+animevietsub.*##.announcement
+animevietsub.*###watch-block > center
+animevietsub.*##.widget-area
+animevietsub.*##.fbcmt
+animevietsub.*##main > .watch-notice
+animevietsub.*##.social-button
+animevietsub.*##.VotesCn
+animevietsub.*##.aanetwork-type-flyicon.aanetwork-ads-box
+animevietsub.*###pc-catfixx
+animevietsub.*##.ad-center-header.Adv
+animevietsub.*##.ad-center-1110.Ads
+animevietsub.*##.ad-center-980.Ads
+animevietsub.*###links-backup > h3
+
+
+!********** Nettruyen.com
+/nettruyen([a-z]*)\.com/##FOOTER[class="footer"]
+/nettruyen[a-z]{2,3}\.com/##DIV[class="notify_block"]
+/nettruyen[a-z]{2,3}\.com/##.Module-280.Module
+/nettruyen([a-z]*)\.com/##li.navbar-nav-girl
+/nettruyen([a-z]*)\.com/##li.navbar-nav-boy
+/nettruyen[a-z]{2,3}\.com/##A[href="https://www.facebook.com/nettruyen/"]
+/nettruyen[a-z]{2,3}\.com/##[href="https://www.facebook.com/groups/860444028385945"]
+!/nettruyen[a-z]{2,3}\.com/##A[href="https://www.facebook.com/groups/nettruyenonline/"]
+/nettruyen[a-z]{2,3}\.com/##A[class="mark-as-read"]
+/nettruyen[a-z]{2,3}\.com/##DIV[class="comic-wrap Module Module-168"]
+/nettruyen[a-z]{2,3}\.com/##UL[class="breadcrumb"]
+/nettruyen[a-z]{2,3}\.com/##DIV[class="row rating"]
+/nettruyen[a-z]{2,3}\.com/##DIV[class="mrt5 mrb10"]
+/nettruyen[a-z]{2,3}\.com/##TIME[class="small"]
+/nettruyen[a-z]{2,3}\.com/##DIV[class="comment"]
+/nettruyen[a-z]{2,3}\.com/##DIV[class="alert alert-info mrb10 hidden-xs hidden-sm"]
+/nettruyen[a-z]{2,3}\.com/##DIV[class="mrb10"]
+/nettruyen[a-z]{2,3}\.com/##DIV[class="mrb5"]
+!/nettruyen[a-z]{2,3}\.com/## .container > .row > #ctl00_divCenter > #item-detail > div.detail-content > p > a
+/nettruyen[a-z]{2,3}\.com/##DIV[class="top-members lazy-module"]
+/nettruyen[a-z]{2,3}\.com/##DIV[class="new-comments Module Module-180"]
+/nettruyen[a-z]{2,3}\.com/##ul[data-type="facebook"]
+/nettruyen[a-z]{2,3}\.com/###nt_comments
+/nettruyen[a-z]{2,3}\.com/###fb_comments
+
+
+!********** TruyenQQ
+!/truyenqq[a-z]{2,4}\.com/##body > div.aanetwork-ads-box.aanetwork-type-pto
+/truyenqq[a-z]{2,4}\.com/##span[class="type-label hot"]
+/truyenqq[a-z]{2,4}\.com/##span[class="type-label new"]
+/truyenqq[a-z]{2,4}\.com/##footer
+/truyenqq[a-z]{2,4}\.com/###comment_list
+! Tab girl, boy, facebook, discord,..
+/truyenqq[a-z]{2,4}\.com/###header_left_menu > li:nth-child(4) > a
+/truyenqq[a-z]{2,4}\.com/###header_left_menu > li:nth-child(5) > a
+/truyenqq[a-z]{2,4}\.com/###header_left_menu > li:nth-child(9) > a
+/truyenqq[a-z]{2,4}\.com/###header_left_menu > li:nth-child(10) > a
+/truyenqq[a-z]{2,4}\.com/###header_left_menu > li:nth-child(11) > a
+/truyenqq[a-z]{2,4}\.com/###header_left_menu > li:nth-child(12) > a
+! Like truyện
+/truyenqq[a-z]{2,4}\.com/##a[class="button is-danger is-rounded btn-like"]
+! Chuyển chap
+!/truyenqq[a-z]{2,4}\.com/##div[class="box"] !all
+/truyenqq[a-z]{2,4}\.com/##.mrt10
+!/truyenqq[a-z]{2,4}\.com/##ol[class="breadcrumb"]
+! AD
+/truyenqq[a-z]{2,4}\.com/###ad_info
+/truyenqq[a-z]{2,4}\.com/###ad_info_top
+! Doc truyen, xem ani tai...
+/truyenqq[a-z]{2,4}\.com/###chapter_content > div > div.chapter_content > p:nth-child(3)
+/truyenqq[a-z]{2,4}\.com/###chapter_content > div > div.chapter_content > p:nth-child(4)
+
+
+!********** C1Manga
+!** Home
+! cmanga1.com###content > div.right
+cmanga1.com##div[onclick="popup_load('user/premium')"]
+cmanga1.com##div.module.game_top
+cmanga1.com##footer
+! Lấy mã google
+cmanga1.com###beeGoogleButton
+! Coin
+cmanga1.com##a[onclick="popup_data = {'target':'manga_coin'};popup_load('user/topup')"]
+! Chat
+cmanga1.com###private_chat_module
+! Hot tag
+||cmanga1.com/assets/img/icon/tags/unique.png$image
+||cmanga1.com/assets/img/icon/tags/hot.png$image
+!** TruyenTranh
+! Share
+cmanga1.com##.ref_link
+cmanga1.com##button[onclick="fbs_click();"]
+!** DocTruyenTranh
+! ADS
+||cmanga1.com/assets/img/pr/ads.png$image
+||img.cmanga.online/data-image/index.php$image
+! Tên
+cmanga1.com##.chapter_content_module > .chapter_content > h1
+! Report, theo dõi
+cmanga1.com##a[onclick="popup_load('album/chapter/report')"]
+cmanga1.com##a[onclick="album_follow()"]
+
