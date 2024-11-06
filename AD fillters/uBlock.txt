@@ -75,3 +75,4 @@ www.desmos.com##svg[id="svg-desmos"][class="dcg-desmos-svg-logo"]
 
 !act.hoyolab.com
 act.hoyolab.com##.bbs-qr__vi-vn.bbs-qr
+act.hoyolab.com##.components-home-assets-__home_---qr-code---iYG7z9
