@@ -139,4 +139,7 @@ cmanga1.com##.chapter_content_module > .chapter_content > h1
 ! Report, theo dõi
 cmanga1.com##a[onclick="popup_load('album/chapter/report')"]
 cmanga1.com##a[onclick="album_follow()"]
-
+! Nút comment nổi góc trái
+cmanga1.com##div[onclick="popup_load('album/chapter/fly_comment')"]
+! Comment chạy trên màn hình
+cmanga1.com##div.fly_comment
