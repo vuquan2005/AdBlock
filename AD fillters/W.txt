@@ -132,6 +132,7 @@ cmanga1.com##.ref_link
 cmanga1.com##button[onclick="fbs_click();"]
 !** DocTruyenTranh
 ! ADS
+cmanga1.com##div.pr_module.import_ads
 ||cmanga1.com/assets/img/pr/ads.png$image
 ||img.cmanga.online/data-image/index.php$image
 ! Tên
