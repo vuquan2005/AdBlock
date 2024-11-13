@@ -2,6 +2,7 @@
 animevietsub.ink##footer.Footer
 animevietsub.ink##aside.widget-area
 animevietsub.ink##div.fbcmt
+animevietsub.ink##div.announcement
 animevietsub.ink###watch-block > center > div.schedule-title-main
 animevietsub.ink##div.social-button
 animevietsub.ink##div#mv-keywords
@@ -11,7 +12,7 @@ animevietsub.ink##div.VotesCn
 animevietsub.ink##div.pc-catfixx
 animevietsub.ink##div.mobile-catfixx
 ! Ads
-animevietsub.ink##div.announcement
+animevietsub.ink##html > div
 animevietsub.ink##div.Adv.ad-center-header
 animevietsub.ink##div.Ads
 animevietsub.ink##div.pc_catfix_adv
