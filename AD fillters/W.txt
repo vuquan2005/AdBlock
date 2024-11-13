@@ -28,6 +28,8 @@ myanimelist.net##A[class="Lightbox_AddEdit btn-addEdit-large btn-anime-watch-sta
 ln.hako.vn##footer#footer
 ! Thông báo
 ln.hako.vn##div.no-push.col-12.push-2-l.col-8-l
+! Máy dịch
+ln.hako.vn##a[href="/convert"]
 
 !********** AnimeVietSub
 animevietsub.*##footer.Footer
