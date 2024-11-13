@@ -112,6 +112,7 @@ animevietsub.*##div.pc_catfix_adv
 cmanga1.com##div[onclick="popup_load('user/premium')"]
 cmanga1.com##div.module.game_top
 cmanga1.com##footer
+cmanga1.com##div#popup_content
 ! Lấy mã google
 cmanga1.com###beeGoogleButton
 ! Coin
