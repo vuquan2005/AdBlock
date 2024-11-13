@@ -14,3 +14,4 @@ animevietsub.ink##div.announcement
 animevietsub.ink##div.Adv.ad-center-header
 animevietsub.ink##div.Ads
 animevietsub.ink##div.pc_catfix_adv
+animevietsub.ink##div.mb_catfix_adv
