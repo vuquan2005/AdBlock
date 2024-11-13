@@ -9,3 +9,19 @@ animevietsub.ink##.social-button
 animevietsub.ink##.Dvr-300
 animevietsub.ink###Tp-Wp > div.Body.Container:nth-child(2) > div.Content > div.TpRwCont:last-child > aside.widget-area:last-child > section.Wdgt:first-child
 animevietsub.ink###Tp-Wp > div.Body.Container:nth-child(2) > div.Content > div.TpRwCont:last-child > aside.widget-area:last-child > div.tag-list-main:last-child
+
+animevietsub.ink##.Footer
+animevietsub.ink###mv-keywords
+animevietsub.ink##.announcement
+animevietsub.ink###watch-block > center
+animevietsub.ink##.widget-area
+animevietsub.ink##.fbcmt
+animevietsub.ink##main > .watch-notice
+animevietsub.ink##.social-button
+animevietsub.ink##.VotesCn
+animevietsub.ink##.aanetwork-type-flyicon.aanetwork-ads-box
+animevietsub.ink###pc-catfixx
+animevietsub.ink##.ad-center-header.Adv
+animevietsub.ink##.ad-center-1110.Ads
+animevietsub.ink##.ad-center-980.Ads
+animevietsub.ink###links-backup > h3
