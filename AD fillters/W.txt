@@ -38,21 +38,21 @@ ln.hako.vn###mainpart > div.bottom-part.at-index:nth-child(5) > div.container > 
 
 
 !********** AnimeVietSub
-animevietsub.*##.Footer
-animevietsub.*###mv-keywords
-animevietsub.*##.announcement
-animevietsub.*###watch-block > center
-animevietsub.*##.widget-area
-animevietsub.*##.fbcmt
-animevietsub.*##main > .watch-notice
-animevietsub.*##.social-button
-animevietsub.*##.VotesCn
-animevietsub.*##.aanetwork-type-flyicon.aanetwork-ads-box
-animevietsub.*###pc-catfixx
-animevietsub.*##.ad-center-header.Adv
-animevietsub.*##.ad-center-1110.Ads
-animevietsub.*##.ad-center-980.Ads
-animevietsub.*###links-backup > h3
+animevietsub.*##footer.Footer
+animevietsub.*##aside.widget-area
+animevietsub.*##div.fbcmt
+animevietsub.*###watch-block > center > div.schedule-title-main
+animevietsub.*##div.social-button
+animevietsub.*##div#mv-keywords
+animevietsub.*##div.watch-notice
+animevietsub.*##div.anime-avg-user-rating
+animevietsub.*##div.VotesCn
+animevietsub.*##div.pc-catfixx
+! Ads
+animevietsub.*##div.announcement
+animevietsub.*##div.Adv.ad-center-header
+animevietsub.*##div.Ads
+animevietsub.*##div.pc_catfix_adv
 
 
 !********** Nettruyen.com
