@@ -50,6 +50,43 @@ animevietsub.*##div.Ads
 animevietsub.*##div.pc_catfix_adv
 
 
+!********** CManga
+!** Home
+! Nhóm dịch
+!||cmanga1.com/assets/img/pr/tuyennhomdich.jpg$image
+! cmanga.com###content > div.right
+cmanga1.com##div[onclick="popup_load('user/premium')"]
+cmanga1.com##div.module.game_top
+cmanga1.com##footer
+cmanga1.com##div#popup_content
+cmanga1.com##div.module.last_comment
+cmanga1.com##a[onclick="popup_data = {'target':'manga_coin'};popup_load('user/topup')"]
+cmanga1.com###private_chat_module
+! Lấy mã google
+cmanga1.com###beeGoogleButton
+! Hot tag
+||cmanga1.com/assets/img/icon/tags/unique.png$image
+||cmanga1.com/assets/img/icon/tags/hot.png$image
+!** TruyenTranh
+! Share
+cmanga1.com##.ref_link
+cmanga1.com##button[onclick="fbs_click();"]
+!** DocTruyenTranh
+! ADS
+cmanga1.com##div.pr_module.import_ads
+||cmanga1.com/assets/img/pr/ads.png$image
+||img.cmanga.online/data-image/index.php$image
+! Tên
+cmanga1.com##.chapter_content_module > .chapter_content > h1
+! Report, theo dõi
+cmanga1.com##a[onclick="popup_load('album/chapter/report')"]
+cmanga1.com##a[onclick="album_follow()"]
+! Nút comment nổi góc trái
+cmanga1.com##div[onclick="popup_load('album/chapter/fly_comment')"]
+! Comment chạy trên màn hình
+cmanga1.com##div.fly_comment
+
+
 !********** Nettruyen.com
 /nettruyen([a-z]*)\.com/##FOOTER[class="footer"]
 /nettruyen[a-z]{2,3}\.com/##DIV[class="notify_block"]
@@ -104,39 +141,3 @@ animevietsub.*##div.pc_catfix_adv
 /truyenqq[a-z]{2,4}\.com/###chapter_content > div > div.chapter_content > p:nth-child(4)
 
 
-!********** CManga
-!** Home
-! Nhóm dịch
-!||cmanga1.com/assets/img/pr/tuyennhomdich.jpg$image
-! cmanga.com###content > div.right
-cmanga1.com##div[onclick="popup_load('user/premium')"]
-cmanga1.com##div.module.game_top
-cmanga1.com##footer
-cmanga1.com##div#popup_content
-! Lấy mã google
-cmanga1.com###beeGoogleButton
-! Coin
-cmanga1.com##a[onclick="popup_data = {'target':'manga_coin'};popup_load('user/topup')"]
-! Chat
-cmanga1.com###private_chat_module
-! Hot tag
-||cmanga1.com/assets/img/icon/tags/unique.png$image
-||cmanga1.com/assets/img/icon/tags/hot.png$image
-!** TruyenTranh
-! Share
-cmanga1.com##.ref_link
-cmanga1.com##button[onclick="fbs_click();"]
-!** DocTruyenTranh
-! ADS
-cmanga1.com##div.pr_module.import_ads
-||cmanga1.com/assets/img/pr/ads.png$image
-||img.cmanga.online/data-image/index.php$image
-! Tên
-cmanga1.com##.chapter_content_module > .chapter_content > h1
-! Report, theo dõi
-cmanga1.com##a[onclick="popup_load('album/chapter/report')"]
-cmanga1.com##a[onclick="album_follow()"]
-! Nút comment nổi góc trái
-cmanga1.com##div[onclick="popup_load('album/chapter/fly_comment')"]
-! Comment chạy trên màn hình
-cmanga1.com##div.fly_comment
