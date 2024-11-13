@@ -9,6 +9,7 @@ animevietsub.ink##div.watch-notice
 animevietsub.ink##div.anime-avg-user-rating
 animevietsub.ink##div.VotesCn
 animevietsub.ink##div.pc-catfixx
+animevietsub.ink##div.mobile-catfixx
 ! Ads
 animevietsub.ink##div.announcement
 animevietsub.ink##div.Adv.ad-center-header
