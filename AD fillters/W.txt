@@ -62,11 +62,13 @@ animevietsub.*##div.pc_catfix_adv
 /cmanga.{1,2}\.com/##div.module.last_comment
 /cmanga.{1,2}\.com/##a[onclick="popup_data = {'target':'manga_coin'};popup_load('user/topup')"]
 /cmanga.{1,2}\.com/###private_chat_module
+/cmanga.{1,2}\.com/###content > div.left > div.album_suggest > h1
 ! Lấy mã google
 /cmanga.{1,2}\.com/###beeGoogleButton
 ! Hot tag
-||/cmanga.{1,2}\.com//assets/img/icon/tags/unique.png$image
-||/cmanga.{1,2}\.com//assets/img/icon/tags/hot.png$image
+/cmanga.{1,2}\.com/##img.hot_tags
+||cmangal.com/assets/img/icon/tags/unique.png$image
+||cmangal.com/assets/img/icon/tags/hot.png$image
 !** TruyenTranh
 ! Share
 /cmanga.{1,2}\.com/##.ref_link
@@ -74,7 +76,7 @@ animevietsub.*##div.pc_catfix_adv
 !** DocTruyenTranh
 ! ADS
 /cmanga.{1,2}\.com/##div.pr_module.import_ads
-||/cmanga.{1,2}\.com//assets/img/pr/ads.png$image
+||cmangal.com/assets/img/pr/ads.png$image
 ||img.cmanga.online/data-image/index.php$image
 ! Tên
 /cmanga.{1,2}\.com/##.chapter_content_module > .chapter_content > h1
