@@ -53,38 +53,38 @@ animevietsub.*##div.pc_catfix_adv
 !********** CManga
 !** Home
 ! Nhóm dịch
-!||cmanga1.com/assets/img/pr/tuyennhomdich.jpg$image
+!||/cmanga.{1,2}\.com//assets/img/pr/tuyennhomdich.jpg$image
 ! cmanga.com###content > div.right
-cmanga1.com##div[onclick="popup_load('user/premium')"]
-cmanga1.com##div.module.game_top
-cmanga1.com##footer
-cmanga1.com##div#popup_content
-cmanga1.com##div.module.last_comment
-cmanga1.com##a[onclick="popup_data = {'target':'manga_coin'};popup_load('user/topup')"]
-cmanga1.com###private_chat_module
+/cmanga.{1,2}\.com/##div[onclick="popup_load('user/premium')"]
+/cmanga.{1,2}\.com/##div.module.game_top
+/cmanga.{1,2}\.com/##footer
+/cmanga.{1,2}\.com/##div#popup_content
+/cmanga.{1,2}\.com/##div.module.last_comment
+/cmanga.{1,2}\.com/##a[onclick="popup_data = {'target':'manga_coin'};popup_load('user/topup')"]
+/cmanga.{1,2}\.com/###private_chat_module
 ! Lấy mã google
-cmanga1.com###beeGoogleButton
+/cmanga.{1,2}\.com/###beeGoogleButton
 ! Hot tag
-||cmanga1.com/assets/img/icon/tags/unique.png$image
-||cmanga1.com/assets/img/icon/tags/hot.png$image
+||/cmanga.{1,2}\.com//assets/img/icon/tags/unique.png$image
+||/cmanga.{1,2}\.com//assets/img/icon/tags/hot.png$image
 !** TruyenTranh
 ! Share
-cmanga1.com##.ref_link
-cmanga1.com##button[onclick="fbs_click();"]
+/cmanga.{1,2}\.com/##.ref_link
+/cmanga.{1,2}\.com/##button[onclick="fbs_click();"]
 !** DocTruyenTranh
 ! ADS
-cmanga1.com##div.pr_module.import_ads
-||cmanga1.com/assets/img/pr/ads.png$image
+/cmanga.{1,2}\.com/##div.pr_module.import_ads
+||/cmanga.{1,2}\.com//assets/img/pr/ads.png$image
 ||img.cmanga.online/data-image/index.php$image
 ! Tên
-cmanga1.com##.chapter_content_module > .chapter_content > h1
+/cmanga.{1,2}\.com/##.chapter_content_module > .chapter_content > h1
 ! Report, theo dõi
-cmanga1.com##a[onclick="popup_load('album/chapter/report')"]
-cmanga1.com##a[onclick="album_follow()"]
+/cmanga.{1,2}\.com/##a[onclick="popup_load('album/chapter/report')"]
+/cmanga.{1,2}\.com/##a[onclick="album_follow()"]
 ! Nút comment nổi góc trái
-cmanga1.com##div[onclick="popup_load('album/chapter/fly_comment')"]
+/cmanga.{1,2}\.com/##div[onclick="popup_load('album/chapter/fly_comment')"]
 ! Comment chạy trên màn hình
-cmanga1.com##div.fly_comment
+/cmanga.{1,2}\.com/##div.fly_comment
 
 
 !********** Nettruyen.com
