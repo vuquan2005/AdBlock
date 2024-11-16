@@ -54,14 +54,22 @@ animevietsub.*##div.pc_catfix_adv
 !** Home
 ! Nhóm dịch
 !||/cmanga.{1,2}\.com//assets/img/pr/tuyennhomdich.jpg$image
+! Toàn bộ tab phải
 ! cmanga.com###content > div.right
-/cmanga.{1,2}\.com/##div[onclick="popup_load('user/premium')"]
-/cmanga.{1,2}\.com/##div.module.game_top
 /cmanga.{1,2}\.com/##footer
+! Popup giới thiệu tính năng,...
 /cmanga.{1,2}\.com/##div#popup_content
+! Vip
+/cmanga.{1,2}\.com/##div[onclick="popup_load('user/premium')"]
+! Danh vọng, Cảnh giới
+/cmanga.{1,2}\.com/##div.module.game_top
+! Comment ở tab phải
 /cmanga.{1,2}\.com/##div.module.last_comment
-/cmanga.{1,2}\.com/##a[onclick="popup_data = {'target':'manga_coin'};popup_load('user/topup')"]
+! Manga coin cạnh avatar(PC UI), trong menu avatar (mb UI)
+/cmanga.{1,2}\.com/##div.user_currency.manga_coin
+! Nút chat góc dưới
 /cmanga.{1,2}\.com/###private_chat_module
+! Gợi ý thông minh
 /cmanga.{1,2}\.com/###content > div.left > div.album_suggest > h1
 ! Lấy mã google
 /cmanga.{1,2}\.com/###beeGoogleButton
@@ -87,7 +95,6 @@ animevietsub.*##div.pc_catfix_adv
 /cmanga.{1,2}\.com/##div[onclick="popup_load('album/chapter/fly_comment')"]
 ! Comment chạy trên màn hình
 /cmanga.{1,2}\.com/##div.fly_comment
-
 
 !********** Nettruyen.com
 /nettruyen([a-z]*)\.com/##FOOTER[class="footer"]
