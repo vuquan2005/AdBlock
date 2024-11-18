@@ -57,8 +57,8 @@ animevietsub.*##div.pc_catfix_adv
 ! Toàn bộ tab phải
 ! cmanga.com###content > div.right
 /cmanga.{1,2}\.com/##footer
-! Popup giới thiệu tính năng,...
-/cmanga.{1,2}\.com/##div#popup_content
+! Popup giới thiệu tính năng, bỏ chặn login
+/cmanga.{1,2}\.com/##div#popup_content:has(div.popup_module.announcement):not(:has(div.popup_module.popup_login))
 ! Vip
 /cmanga.{1,2}\.com/##div[onclick="popup_load('user/premium')"]
 ! Danh vọng, Cảnh giới
