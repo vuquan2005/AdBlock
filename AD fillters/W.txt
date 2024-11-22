@@ -52,8 +52,6 @@ animevietsub.*##div.pc_catfix_adv
 
 !********** CManga
 !** Home
-! Nhóm dịch
-!||/cmanga.{1,2}\.com//assets/img/pr/tuyennhomdich.jpg$image
 ! Toàn bộ tab phải
 ! cmanga.com###content > div.right
 /cmanga.{1,2}\.com/##footer
@@ -77,6 +75,10 @@ animevietsub.*##div.pc_catfix_adv
 /cmanga.{1,2}\.com/##img.hot_tags
 ||cmangal.com/assets/img/icon/tags/unique.png$image
 ||cmangal.com/assets/img/icon/tags/hot.png$image
+! Nhóm dịch
+||/cmanga.{1,2}\.com//assets/img/pr/tuyennhomdich.jpg$image
+! Ads CNovel
+||cmangal.com/assets/img/pr/cnovel.jpg$image
 !** TruyenTranh
 ! Share
 /cmanga.{1,2}\.com/##.ref_link
