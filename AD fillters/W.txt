@@ -1,5 +1,5 @@
 !********** goctruyentranhvui
-/goctruyentranhvui\d\.com/##footer
+/goctruyentranhvui\d{1,2}\.com/##footer
 !/goctruyentranhvui\d\.com/##section.main-banner-comic.rounded.relative
 
 
