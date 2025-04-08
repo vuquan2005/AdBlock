@@ -130,7 +130,7 @@ animevietsub.*##div.pc_catfix_adv
 /truyenqq[a-z]{2,4}\.com/##span[class="type-label hot"]
 /truyenqq[a-z]{2,4}\.com/##span[class="type-label new"]
 /truyenqq[a-z]{2,4}\.com/##footer
-/truyenqq[a-z]{2,4}\.com/###comment_list
+!/truyenqq[a-z]{2,4}\.com/###comment_list
 ! Tab girl, boy, facebook, discord,..
 /truyenqq[a-z]{2,4}\.com/###header_left_menu > li:nth-child(4) > a
 /truyenqq[a-z]{2,4}\.com/###header_left_menu > li:nth-child(5) > a
