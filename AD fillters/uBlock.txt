@@ -76,3 +76,6 @@ www.desmos.com##svg[id="svg-desmos"][class="dcg-desmos-svg-logo"]
 !act.hoyolab.com
 act.hoyolab.com##.bbs-qr__vi-vn.bbs-qr
 act.hoyolab.com##.components-home-assets-__home_---qr-code---iYG7z9
+
+!wuwatracker.co
+wuwatracker.com##div.relative.max-h-80.transition-none:style( max-height: 10000px !important; )
