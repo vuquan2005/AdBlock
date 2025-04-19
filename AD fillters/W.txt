@@ -3,7 +3,7 @@
 /goctruyentranhvui\d+\.com/##svg.v-icon-svg-small > path:nth-child(2)
 /goctruyentranhvui\d+\.com/##div.background-banner
 /goctruyentranhvui\d+\.com/##ul#fssList
-/goctruyentranhvui\d+\.com/##section.main-banner-comic.rounded.relative:style( background-color: #4a4a4ae6 !important; )
+/goctruyentranhvui\d+\.com/##section.main-banner-comic.rounded.relative:style( background-color: #111113 !important; )
 !/goctruyentranhvui\d\.com/##section.main-banner-comic.rounded.relative
 
 
