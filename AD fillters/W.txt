@@ -1,5 +1,6 @@
 !********** goctruyentranhvui
-/goctruyentranhvui\d{1,2}\.com/##footer
+/goctruyentranhvui\d+\.com/##footer
+/goctruyentranhvui\d+\.com/##svg.v-icon-svg-small > path:nth-child(2)
 !/goctruyentranhvui\d\.com/##section.main-banner-comic.rounded.relative
 
 
