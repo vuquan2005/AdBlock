@@ -31,12 +31,12 @@ youtube.com##div[id="sponsor-button"]
 youtube.com##button[aria-label="Tải xuống"]
 youtube.com##button[aria-label="Cảm ơn"]
 youtube.com##button[aria-label="Tạo đoạn video"]
-youtube.com##button[aria-label="Thao tác khác"]
+!youtube.com##button[aria-label="Thao tác khác"]
 ! Đăng ký góc dưới video
 youtube.com##div[class="annotation annotation-type-custom iv-branding"]
 ! Menu video
 youtube.com##button[title="Chế độ rạp chiếu phim (t)"]
-youtube.com##button[title="Chế độ tự động phát đang tắt"]
+!youtube.com##button[title="Chế độ tự động phát đang tắt"]
 youtube.com##button[aria-label="Không có phụ đề"]
 youtube.com###ytp-id-19 > div > div > div:nth-child(4)
 
