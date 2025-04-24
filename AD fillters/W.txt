@@ -2,6 +2,8 @@
 /goctruyentranhvui\d+\.com/##footer
 ! icon đã đọc hiển thị trên chap chưa đọc
 /goctruyentranhvui\d+\.com/##a.timeline-item.mt-2:not(.sticker-read) > div.timeline-divider > div > div > span > svg.v-icon-svg-small > path:nth-child(2)
+! tab theo dõi trên trang chủ
+/goctruyentranhvui\d+\.com/##.btn-filter:style( display: inline-block !important; )
 ! Banner truyện đầu trang
 /goctruyentranhvui\d+\.com/##div.background-banner
 /goctruyentranhvui\d+\.com/##ul#fssList
