@@ -18,7 +18,7 @@ www.facebook.com##div.x9f619.x1n2onr6.x1ja2u2z.x1jx94hy.x1qpq9i9.xdney7k.xu5ydu1
 !youtube.com##div#dismissible.style-scope.ytd-rich-shelf-renderer
 youtube.com##A[class="yt-simple-endpoint style-scope ytd-guide-entry-renderer"][title="Khám phá"]
 youtube.com##A[class="yt-simple-endpoint style-scope ytd-guide-entry-renderer"][title="Shorts"]
-youtube.com##A[class="yt-simple-endpoint style-scope ytd-guide-entry-renderer"][title="Video của bạn"]
+!youtube.com##A[class="yt-simple-endpoint style-scope ytd-guide-entry-renderer"][title="Video của bạn"]
 youtube.com##a[href="/paid_memberships?ybp=mAEK"]
 ! Kênh đăng kí,...
 youtube.com##h3.style-scope.ytd-guide-section-renderer > yt-formatted-string#guide-section-title
