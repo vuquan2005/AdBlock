@@ -17,6 +17,9 @@ nettrom.com###banner
 nettrom.com##a[href="https://partner.coccoc.com/cuutruyen"]
 nettrom.com##a[href="https://m.me/CuuTruyenTranh"]
 nettrom.com##.lg\:flex.hidden.gap-3.items-center.flex-1
+! add profile
+eop.edu.vn##aside > div#navigation > div :style( display: block !important; )
+
 
 
 !********** MyAnimeList
