@@ -9,6 +9,9 @@
 /goctruyentranhvui\d+\.com/##ul#fssList
 /goctruyentranhvui\d+\.com/##section.main-banner-comic.rounded.relative:style( background-color: #111113 !important; )
 !/goctruyentranhvui\d\.com/##section.main-banner-comic.rounded.relative
+! đổi màu báo cáo bình luận
+/goctruyentranhvui\d+\.com/##.btn-report-cmt :style( content:rgba(255, 255, 255, 0.1) !important; )
+
 
 
 !********** CuuTruyen.com
