@@ -39,6 +39,8 @@ youtube.com##button[title="Chế độ rạp chiếu phim (t)"]
 !youtube.com##button[title="Chế độ tự động phát đang tắt"]
 youtube.com##button[aria-label="Không có phụ đề"]
 youtube.com###ytp-id-19 > div > div > div:nth-child(4)
+! Chỉnh lại số cột video
+youtube.com##ytd-rich-grid-renderer:style( --ytd-rich-grid-items-per-row: 4 !important; )
 
 !********** Google
 ! Gợi ý tải chrome
