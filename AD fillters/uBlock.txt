@@ -56,8 +56,6 @@ sv.haui.edu.vn##[href="/timestable/calendarct"]
 sv.haui.edu.vn###sub_timestableview
 sv.haui.edu.vn##li.parent:nth-of-type(4)
 sv.haui.edu.vn###sub_shcd
-sv.haui.edu.vn###dReport
-
 
 !********** eop.edu.vn
 eop.edu.vn##.footer
@@ -65,6 +63,7 @@ eop.edu.vn###logo
 eop.edu.vn##a[href="/apps/game"]
 eop.edu.vn##a[href="/exam"]
 eop.edu.vn##a[href="/modules/sns/base/studentclass"]
+eop.edu.vn###dReport
 
 
 !********** open.spotify.com
