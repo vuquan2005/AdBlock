@@ -47,14 +47,12 @@ youtube.com##ytd-rich-grid-renderer:style( --ytd-rich-grid-items-per-row: 4 !imp
 ||ogs.google.com/u/0/widget/callout/sid$subdocument
 
 !********** sv.haui.edu.vn
-sv.haui.edu.vn##[href="/sso/elearning"]
 sv.haui.edu.vn##[href="/sso/qpan"]
 sv.haui.edu.vn###sub_testonline
 sv.haui.edu.vn###sub_testonlineqpan
 sv.haui.edu.vn###sub_dakltnonline
 sv.haui.edu.vn##[href="/timestable/calendarct"]
 sv.haui.edu.vn###sub_timestableview
-sv.haui.edu.vn##li.parent:nth-of-type(4)
 sv.haui.edu.vn###sub_shcd
 qlht.haui.edu.vn/mod/scorm/player.php###scorm_content:style(width: 100% !important;)
 qlht.haui.edu.vn/mod/scorm/player.php##li.type_course.depth_3.contains_branch
