@@ -56,6 +56,7 @@ sv.haui.edu.vn##[href="/timestable/calendarct"]
 sv.haui.edu.vn###sub_timestableview
 sv.haui.edu.vn##li.parent:nth-of-type(4)
 sv.haui.edu.vn###sub_shcd
+qlht.haui.edu.vn/mod/scorm/player.php###scorm_content:style(width: 100% !important;)
 
 !********** eop.edu.vn
 eop.edu.vn##.footer
