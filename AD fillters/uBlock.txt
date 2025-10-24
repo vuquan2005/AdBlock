@@ -5,6 +5,8 @@ www.facebook.com##div[aria-label="Tạo bài viết"]
 youtube.com##ytd-rich-grid-renderer:style( --ytd-rich-grid-items-per-row: 4 !important; )
 youtube.com##button[aria-label="Cảm ơn"]
 youtube.com##tp-yt-paper-item:has-text(Tạo đoạn video)
+youtube.com##ytd-guide-entry-renderer:has-text(Shorts)
+
 
 !********** Google
 ! Gợi ý tải chrome
