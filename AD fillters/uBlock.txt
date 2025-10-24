@@ -1,17 +1,5 @@
 !********** Facebook
-www.facebook.com##A[aria-label="Tạo tin"]
 www.facebook.com##div[aria-label="Tạo bài viết"]
-www.facebook.com##DIV[aria-label="Phòng họp mặt mới"]
-www.facebook.com##DIV[aria-label="Tạo phòng họp mặt mới"]
-www.facebook.com##A[aria-label="Marketplace"]
-www.facebook.com##A[aria-label="Trò chơi"]
-www.facebook.com##A[aria-label="Video"]
-! Những người bạn có thể biết
-www.facebook.com##div.x9f619.x1n2onr6.x1ja2u2z.x1jx94hy.x1qpq9i9.xdney7k.xu5ydu1.xt3gfkd.xh8yej3.x6ikm8r.x10wlt62.xquyuld > div.x6ikrn8r.x10wlt62
-!www.facebook.com##DIV[class="rq0escxv l9j0dhe7 du4w35lb obtkqiv7 sv5sfqaa sj5x9vvc cxgpxx05"]
-!www.facebook.com##DIV[class="sjgh65i0"]
-!www.facebook.com##DIV[class="rq0escxv l9j0dhe7 du4w35lb j83agx80 cbu4d94t buofh1pr tgvbjcpo sv5sfqaa obtkqiv7"]
-
 
 !********** Youtube.com
 ! Short, Tin tức
