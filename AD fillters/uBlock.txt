@@ -2,46 +2,22 @@
 www.facebook.com##div[aria-label="Tạo bài viết"]
 
 !********** Youtube.com
-! Short, Tin tức
-!youtube.com##div#dismissible.style-scope.ytd-rich-shelf-renderer
-youtube.com##A[class="yt-simple-endpoint style-scope ytd-guide-entry-renderer"][title="Khám phá"]
-youtube.com##A[class="yt-simple-endpoint style-scope ytd-guide-entry-renderer"][title="Shorts"]
-!youtube.com##A[class="yt-simple-endpoint style-scope ytd-guide-entry-renderer"][title="Video của bạn"]
-youtube.com##a[href="/paid_memberships?ybp=mAEK"]
-! Kênh đăng kí,...
-youtube.com##h3.style-scope.ytd-guide-section-renderer > yt-formatted-string#guide-section-title
-! Tạo video
-!youtube.com##ytd-topbar-menu-button-renderer[class="style-scope ytd-masthead style-default"]
-youtube.com##div[id="voice-search-button"]
-! Tham gia kênh
-youtube.com##div[id="sponsor-button"]
-! Menu ... bên cạnh download
-youtube.com##button[aria-label="Tải xuống"]
-youtube.com##button[aria-label="Cảm ơn"]
-youtube.com##button[aria-label="Tạo đoạn video"]
-!youtube.com##button[aria-label="Thao tác khác"]
-! Đăng ký góc dưới video
-youtube.com##div[class="annotation annotation-type-custom iv-branding"]
-! Menu video
-youtube.com##button[title="Chế độ rạp chiếu phim (t)"]
-!youtube.com##button[title="Chế độ tự động phát đang tắt"]
-youtube.com##button[aria-label="Không có phụ đề"]
-youtube.com###ytp-id-19 > div > div > div:nth-child(4)
-! Chỉnh lại số cột video
 youtube.com##ytd-rich-grid-renderer:style( --ytd-rich-grid-items-per-row: 4 !important; )
+youtube.com##button[aria-label="Cảm ơn"]
+youtube.com##tp-yt-paper-item:has-text(Tạo đoạn video)
 
 !********** Google
 ! Gợi ý tải chrome
 ||ogs.google.com/u/0/widget/callout/sid$subdocument
 
 !********** sv.haui.edu.vn
-sv.haui.edu.vn##[href="/sso/qpan"]
-sv.haui.edu.vn###sub_testonline
-sv.haui.edu.vn###sub_testonlineqpan
-sv.haui.edu.vn###sub_dakltnonline
-sv.haui.edu.vn##[href="/timestable/calendarct"]
-sv.haui.edu.vn###sub_timestableview
-sv.haui.edu.vn###sub_shcd
+! sv.haui.edu.vn##[href="/sso/qpan"]
+! sv.haui.edu.vn###sub_testonline
+! sv.haui.edu.vn###sub_testonlineqpan
+! sv.haui.edu.vn###sub_dakltnonline
+! sv.haui.edu.vn##[href="/timestable/calendarct"]
+! sv.haui.edu.vn###sub_timestableview
+! sv.haui.edu.vn###sub_shcd
 qlht.haui.edu.vn/mod/scorm/player.php###scorm_content:style(width: 100% !important;)
 qlht.haui.edu.vn/mod/scorm/player.php##li.type_course.depth_3.contains_branch
 
@@ -57,13 +33,11 @@ qlht.haui.edu.vn/mod/scorm/player.php##li.type_course.depth_3.contains_branch
 
 
 !********** open.spotify.com
-open.spotify.com##button[title="Nâng cấp lên Premium"]
 open.spotify.com##a[href="/download"]
 
 
 !********** Desmos
 www.desmos.com##svg[id="svg-desmos"][class="dcg-desmos-svg-logo"]
-
 
 !act.hoyolab.com
 act.hoyolab.com##.bbs-qr__vi-vn.bbs-qr
