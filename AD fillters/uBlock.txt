@@ -57,13 +57,15 @@ sv.haui.edu.vn###sub_shcd
 qlht.haui.edu.vn/mod/scorm/player.php###scorm_content:style(width: 100% !important;)
 qlht.haui.edu.vn/mod/scorm/player.php##li.type_course.depth_3.contains_branch
 
-!********** eop.edu.vn
-eop.edu.vn##.footer
-eop.edu.vn###logo
-eop.edu.vn##a[href="/apps/game"]
-eop.edu.vn##a[href="/exam"]
-eop.edu.vn##a[href="/modules/sns/base/studentclass"]
-eop.edu.vn###dReport
+! !********** eop.edu.vn
+! eop.edu.vn##.footer
+! eop.edu.vn###logo
+! eop.edu.vn##a[href="/apps/game"]
+! eop.edu.vn##a[href="/exam"]
+! eop.edu.vn##a[href="/modules/sns/base/studentclass"]
+! eop.edu.vn###dReport
+! ! add profile
+! eop.edu.vn##aside > div#navigation > div :style( display: block !important; )
 
 
 !********** open.spotify.com
