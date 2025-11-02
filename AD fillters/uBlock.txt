@@ -20,7 +20,7 @@ youtube.com##ytd-guide-entry-renderer:has-text(Shorts)
 ! sv.haui.edu.vn##[href="/timestable/calendarct"]
 ! sv.haui.edu.vn###sub_timestableview
 ! sv.haui.edu.vn###sub_shcd
-qlht.haui.edu.vn/mod/scorm/player.php###scorm_content:style(width: 100% !important;)
+qlht.haui.edu.vn/mod/scorm/player.php###scorm_content:style(width: 80% !important; height: 80% !important;)
 qlht.haui.edu.vn/mod/scorm/player.php##li.type_course.depth_3.contains_branch
 
 ! !********** eop.edu.vn
